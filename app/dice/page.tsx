@@ -17,10 +17,10 @@ export default async function dicePage() {
   return (
     <div className="flex-1 w-full flex flex-col gap-12 h-full">
       <iframe 
+        className="h-[calc(100vh-73px)]"
         src="https://n5ntqy57w.goldslotpalace.com/casino/games/dice.html"
         width="100%" 
-        height="850px" 
-        style={{ border: "none" }} 
+        style={ {border: "none"}} 
         //sandbox="allow-scripts allow-same-origin"
       />
     </div>

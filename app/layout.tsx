@@ -53,7 +53,7 @@ export default function RootLayout({
                   {!hasEnvVars ? <EnvVarWarning /> : <HeaderAuth />}
                 </div>
               </nav>
-              <div className="flex flex-col max-w-full w-full min-h-screen">
+              <div className="flex flex-col max-w-full w-full">
                 {children}
               </div>
 
