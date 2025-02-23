@@ -19,7 +19,7 @@ export default async function dicePage() {
       <iframe 
         src="https://n5ntqy57w.goldslotpalace.com/casino/games/dice.html"
         width="100%" 
-        height="800px" 
+        height="850px" 
         style={{ border: "none" }} 
         //sandbox="allow-scripts allow-same-origin"
       />
